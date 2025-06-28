@@ -13,4 +13,4 @@ Esta aplicación nos ayuda a registrar los pacientes que van ingresando a nuestr
   - react-hook-form
   - react-toastify
 
-PREVIEW: 
+PREVIEW: https://pacientes-zustand-iota.vercel.app/
